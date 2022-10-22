@@ -1860,7 +1860,7 @@ section {
 
 .breadcrumbs .page-header:before {
   content: "";
-  background-color: rgba(14, 29, 52, 0.8);
+  background-color:#fcecf1!important;
   position: absolute;
   inset: 0;
 }
@@ -1869,7 +1869,7 @@ section {
   font-size: 50px;
   font-weight: 500;
   color: #fff;
-  font-family: var(--font-secondary);
+  font-family: "Poppins", sans-serif;
 }
 
 .breadcrumbs .page-header p {
